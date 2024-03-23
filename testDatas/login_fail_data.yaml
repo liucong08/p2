@@ -1,0 +1,3 @@
+- ['朝天宫002', '12345', ['css selector', '.el-message__content'], '密码不正确！']
+- ['朝天宫002', '12', ['css selector', '.el-form-item__error'], '密码不能小于3位']
+- ['朝天宫00', '123456', ['css selector', '.el-message__content'], '用户名或密码错误']
